@@ -1,0 +1,54 @@
+.App {
+  text-align: center;
+}
+
+.list {
+  margin-left: "25px";
+}
+
+.App-header {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "Roboto", "Oxygen",
+    "Ubuntu", "Cantarell", "Fira Sans", "Droid Sans", "Helvetica Neue",
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  background: linear-gradient(64deg, #fff 0%, #8dd8cc 70%, #fff 100%);
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, "Courier New",
+    monospace;
+}
+.Profilepic {
+  border-radius: 50%;
+  width: 200px;
+  height: 200px;
+}
+
+.BackgroundImage {
+  background-image: url("https://www.transparenttextures.com/patterns/xv.png");
+}
+
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.menuIconPosition {
+  position: center;
+}
