@@ -82,8 +82,7 @@ function Work() {
               <br /> From - Till:
               <br /> 02.2022 - 12.2022
               <br />
-              tasks: Giving techinal support by phone, email, chat and face to
-              face contact. train new hires and giving on site support
+              tasks: Giving technical support by phone, email, chat and face to face contact. train new hires and giving onsite support
             </p>
           </li>
           <br />
@@ -94,9 +93,7 @@ function Work() {
               <br /> From - Till: <br />
               05.2018 - 06-2021
               <br />
-              tasks: Giving techinal support by phone, email and chat. helping
-              colleagues with dificulting issues and training new colleagues
-              within the company
+              tasks: Giving technical support by phone, email and chat. helping colleagues with issues they could not resolve and training new colleagues within the company
             </p>
           </li>
         </tr>
